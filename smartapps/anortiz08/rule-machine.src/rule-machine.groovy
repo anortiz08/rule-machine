@@ -66,8 +66,8 @@ def mainPage() {
     	def nApps = childApps.size()
     	dynamicPage(name: "mainPage", title: "Installed Rules, Triggers and Actions " + (nApps > 0 ? "[$nApps]" : ""), install: true, uninstall: false) {
         	section {
-            	app(name: "childRules", appName: "Rule", namespace: "bravenel", title: "Create New Rule...", multiple: true)
-            	app(name: "childRules2", appName: "Motion Lighting", namespace: "bravenel", title: "Create New Motion Lighting...", multiple: true)
+            	app(name: "childRules", appName: "Rule", namespace: "anortiz08", title: "Create New Rule...", multiple: true)
+            	app(name: "childRules2", appName: "Motion Lighting", namespace: "anortiz08", title: "Create New Motion Lighting...", multiple: true)
         	}
 			section ("Expert Features") {
 				href("customCommandsPAGE", title: null, description: anyCustom() ? "Custom Commands..." : "Tap to create Custom Commands", state: anyCustom())

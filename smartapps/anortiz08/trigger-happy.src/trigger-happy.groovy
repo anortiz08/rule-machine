@@ -28,7 +28,7 @@ definition(
 preferences {
     page(name: "mainPage", title: "Triggers", install: true, uninstall: true,submitOnChange: true) {
             section {
-                    app(name: "childTriggers", appName: "Trigger", namespace: "bravenel", title: "Create New Trigger...", multiple: true)
+                    app(name: "childTriggers", appName: "Trigger", namespace: "anortiz08", title: "Create New Trigger...", multiple: true)
             }
     }
 }
