@@ -39,13 +39,13 @@
 definition(
 	name: "Rule Machine",
 	singleInstance: true,
-	namespace: "bravenel",
+	namespace: "anortiz08",
 	author: "Bruce Ravenel and Mike Maxwell",
 	description: "Rule Machine",
 	category: "My Apps",
-	iconUrl: "https://raw.githubusercontent.com/bravenel/Rule-Trigger/master/smartapps/bravenel/RuleMachine.png",
-	iconX2Url: "https://raw.githubusercontent.com/bravenel/Rule-Trigger/master/smartapps/bravenel/RuleMachine%402x.png",
-	iconX3Url: "https://raw.githubusercontent.com/bravenel/Rule-Trigger/master/smartapps/bravenel/RuleMachine%402x.png"
+	iconUrl: "https://raw.githubusercontent.com/anortiz08/rule-machine/master/Rule_machine_icon.png",
+	iconX2Url: "https://raw.githubusercontent.com/anortiz08/rule-machine/master/Rule_machine_icon.png",
+	iconX3Url: "https://raw.githubusercontent.com/anortiz08/rule-machine/master/Rule_machine_icon.png"
 )
 
 preferences {
