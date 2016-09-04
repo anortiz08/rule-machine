@@ -17,11 +17,11 @@
  */
 definition(
     name: "Rule",
-    namespace: "bravenel",
+    namespace: "anortiz08",
     author: "Bruce Ravenel",
     description: "Rule",
     category: "Convenience",
-    parent: "bravenel:Rule Machine",
+    parent: "anortiz08:Rule Machine",
     iconUrl: "https://s3.amazonaws.com/smartapp-icons/MyApps/Cat-MyApps.png",
     iconX2Url: "https://s3.amazonaws.com/smartapp-icons/MyApps/Cat-MyApps@2x.png"
 )

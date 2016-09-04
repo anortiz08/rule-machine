@@ -17,11 +17,11 @@
  */
 definition(
     name: "Trigger",
-    namespace: "bravenel",
+    namespace: "anortiz08",
     author: "Bruce Ravenel",
     description: "Trigger",
     category: "Convenience",
-    parent: "bravenel:Trigger Happy",
+    parent: "anortiz08:Trigger Happy",
     iconUrl: "https://s3.amazonaws.com/smartapp-icons/MyApps/Cat-MyApps.png",
     iconX2Url: "https://s3.amazonaws.com/smartapp-icons/MyApps/Cat-MyApps@2x.png"
 )

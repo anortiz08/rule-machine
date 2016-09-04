@@ -16,7 +16,7 @@
 definition(
     name: "Trigger Happy",
     singleInstance: true,
-    namespace: "bravenel",
+    namespace: "anortiz08",
     author: "Bruce Ravenel",
     description: "Trigger Happy",
     category: "My Apps",
